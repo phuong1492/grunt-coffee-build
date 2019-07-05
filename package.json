@@ -47,7 +47,7 @@
     "source-map": "~0.1.27",
     "coffee-script": "~1.6.3",
     "uglify-js": "~2.3.6",
-    "handlebars": "~1.0.12",
+    "handlebars": "~4.1.2",
     "lexical-scope": "0.0.14",
     "browserify": "~2.29.1"
   }
